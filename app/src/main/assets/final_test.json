@@ -1,0 +1,272 @@
+﻿[
+	{
+		"Question number": "1",
+		"Question": "Which of the word means this: Move toward a particular person or place?",
+		"option a": "Know. ",
+		"option b": "Come. ",
+		"option c": "just. ",
+		"option d": "now. ",
+		"answer": "b"
+	},
+	{
+		"Question number": "2",
+		"Question": "Which of the word means this: infinitely or immeasurably small?",
+		"option a": "accord. ",
+		"option b": "evident. ",
+		"option c": "minute ",
+		"option d": "intend. ",
+		"answer": "c"
+	},
+	{
+		"Question number": "3",
+		"Question": "Which of the word means this: To see or comprehend as reality or truth?",
+		"option a": "know. ",
+		"option b": "now",
+		"option c": "more",
+		"option d": "only",
+		"answer": "a"
+	},
+	{
+		"Question number": "4",
+		"Question": "Which of the word means this:  To utter or pronounce?",
+		"option a": "take",
+		"option b": "tell",
+		"option c": "more",
+		"option d": "say",
+		"answer": "d"
+	},
+	{
+		"Question number": "5",
+		"Question": "Which of the word means this: deficient in quantity or number compared with the demand?",
+		"option a": "accord. ",
+		"option b": "scarce",
+		"option c": "straight",
+		"option d": "intend. ",
+		"answer": "b"
+	},
+	{
+		"Question number": "6",
+		"Question": "Which of the word means this: move towards?",
+		"option a": "encourage",
+		"option b": "evident. ",
+		"option c": "apporach",
+		"option d": "apparent",
+		"answer": "c"
+	},
+	{
+		"Question number": "7",
+		"Question": "Which of the word means this: To defend?",
+		"option a": "accord. ",
+		"option b": "justifies",
+		"option c": "appoint",
+		"option d": "level",
+		"answer": "b"
+	},
+	{
+		"Question number": "8",
+		"Question": "Which of the word means this: An exact point in time?",
+		"option a": "accord. ",
+		"option b": "evident. ",
+		"option c": "minute ",
+		"option d": "intend. ",
+		"answer": "c"
+	},
+	{
+		"Question number": "9",
+		"Question": "Which of the word means this: The arrangement of those successive relations that any occasion has to some other?",
+		"option a": "time",
+		"option b": "use",
+		"option c": "very",
+		"option d": "minute",
+		"answer": "a"
+	},
+	{
+		"Question number": "10",
+		"Question": "Fill in the blank with correct word: Becky closed the door and walked around to the ­­­­­_____ side.?",
+		"option a": "opposite",
+		"option b": "another",
+		"option c": "come",
+		"option d": "other",
+		"answer": "d"
+	},
+	{
+		"Question number": "11",
+		"Question": "Fill in the blank with correct word She usually eats at home, _______ she likes cooking.?",
+		"option a": " because",
+		"option b": "where",
+		"option c": "as",
+		"option d": "humble ",
+		"answer": "a"
+	},
+	{
+		"Question number": "12",
+		"Question": "Fill in the blank with correct word: They need to bring his blood pressure back to a normal _________?",
+		"option a": "skill",
+		"option b": "exerts",
+		"option c": "level",
+		"option d": "other",
+		"answer": "c"
+	},
+	{
+		"Question number": "13",
+		"Question": "Fill in the blank with correct word: He was feeling very ill. _________he went to schoo.",
+		"option a": "practice ",
+		"option b": "however",
+		"option c": "concern",
+		"option d": "intend",
+		"answer": "b"
+	},
+	{
+		"Question number": "14",
+		"Question": "Fill in the blank with correct word: Chicken meat is white __________ that of an ox is red?",
+		"option a": "whereas",
+		"option b": "because",
+		"option c": "however",
+		"option d": "further",
+		"answer": "a"
+	},
+	{
+		"Question number": "15",
+		"Question": "Fill in the blank with correct word: We can stop right here if you__________Can.?",
+		"option a": " where",
+		"option b": "well",
+		"option c": "use",
+		"option d": "want",
+		"answer": "d"
+	},
+	{
+		"Question number": "16",
+		"Question": "I_______ tennis every Sunday morning.",
+		"option a": "playing",
+		"option b": "play",
+		"option c": "am playing",
+		"option d": "am play",
+		"answer": "b"
+	},
+	{
+		"Question number": "17",
+		"Question": "Don't make so much noise. Noriko _______ to study for her ESL test!",
+		"option a": "try",
+		"option b": "tries",
+		"option c": "tried",
+		"option d": "is trying",
+		"answer": "d"
+	},
+	{
+		"Question number": "18",
+		"Question": "Jun-Sik _________ his teeth before breakfast every morning.",
+		"option a": "will cleaned",
+		"option b": "is cleaning",
+		"option c": "cleans",
+		"option d": "clean",
+		"answer": "c"
+	},
+	{
+		"Question number": "19",
+		"Question": "Sorry,she can't come to the phone. She _________ a bath!",
+		"option a": "is having",
+		"option b": "having",
+		"option c": "have",
+		"option d": "has",
+		"answer": "a"
+	},
+	{
+		"Question number": "20",
+		"Question": "___________many times every winter in CANADA.",
+		"option a": "It snows",
+		"option b": "It snowed",
+		"option c": "It is snowing",
+		"option d": "It is snow",
+		"answer": "a"
+	},
+	{
+		"Question number": "21",
+		"Question": "How many students in your class ________ from India?",
+		"option a": "comes",
+		"option b": "come",
+		"option c": "came",
+		"option d": "are coming",
+		"answer": "b"
+	},
+	{
+		"Question number": "22",
+		"Question": "Weather report: \"It's seven o'clock in CANADA and __________\"",
+		"option a": "there is snow",
+		"option b": "it`s snowing",
+		"option c": "it snows",
+		"option d": "it snowed",
+		"answer": "b"
+	},
+	{
+		"Question number": "23",
+		"Question": "Babies ________when they are hungry.",
+		"option a": "cry",
+		"option b": "cries",
+		"option c": "cried",
+		"option d": "are crying",
+		"answer": "a"
+	},
+	{
+		"Question number": "24",
+		"Question": "Jane: \"What do _________ in the evenings?\"",
+		"option a": "you doing",
+		"option b": "you do",
+		"option c": "do you do",
+		"option d": "are you doing",
+		"answer": "b"
+	},
+	{
+		"Question number": "25",
+		"Question": "Jane: \"What are _______?\"",
+		"option a": "you doing",
+		"option b": "you do",
+		"option c": "do you do",
+		"option d": "are you doing",
+		"answer": "a"
+	},
+	{
+		"Question number": "26",
+		"Question": "Jane ___________ her blue jeans today,but usually she wears a skirt or a dress.",
+		"option a": "wears ",
+		"option b": "wearing",
+		"option c": "wear",
+		"option d": "is wearing",
+		"answer": "b"
+	},
+	{
+		"Question number": "27",
+		"Question": "I think I ________a new calculator. This one does not work properly any more.",
+		"option a": "needs",
+		"option b": "needed",
+		"option c": "need",
+		"option d": "am needing",
+		"answer": "c"
+	},
+	{
+		"Question number": "28",
+		"Question": "Sorry, you can't borrow my pencil. I __________ it myself.",
+		"option a": "was using ",
+		"option b": "using",
+		"option c": "use",
+		"option d": "am using",
+		"answer": "d"
+	},
+	{
+		"Question number": "29",
+		"Question": "Jane: \" ____________ yourself?\"",
+		"option a": "You enjoying",
+		"option b": "Enjoy you",
+		"option c": "Do you enjoy",
+		"option d": "Are you enjoying",
+		"answer": "d"
+	},
+	{
+		"Question number": "30",
+		"Question": "I've just finished reading a story called Dangerous Game. It's about a man who kills his wife because he doesn't want to lose her.",
+		"option a": "kills",
+		"option b": "killed",
+		"option c": "kill",
+		"option d": "is killing",
+		"answer": "a"
+	}
+]

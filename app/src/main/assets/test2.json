@@ -1,0 +1,146 @@
+[
+  {
+    "Question number": "1",
+    "Question": "____ you ever visited London?",
+    "option a": "Did",
+    "option b": "Do",
+    "option c": "Were",
+    "option d": "Have",
+    "answer": "d"
+  },
+  {
+    "Question number": "2",
+    "Question": "____ your car? It's in the garage.",
+    "option a": "Which is",
+    "option b": "Who's",
+    "option c": "When's",
+    "option d": "Where's",
+    "answer": "d"
+  },
+  {
+    "Question number": "3",
+    "Question": "____ bag is this? It's mine.",
+    "option a": "Whose",
+    "option b": "What's",
+    "option c": "Who's",
+    "option d": "Who",
+    "answer": "a"
+  },
+  {
+    "Question number": "4",
+    "Question": "____ only three chairs in my room.",
+    "option a": "They are",
+    "option b": "There are",
+    "option c": "There is",
+    "option d": "It is",
+    "answer": "b"
+  },
+  {
+    "Question number": "5",
+    "Question": "She ____ a house in the town center.",
+    "option a": "got",
+    "option b": "have got",
+    "option c": "has got",
+    "option d": "is got",
+    "answer": "c"
+  },
+  {
+    "Question number": "6",
+    "Question": "____ brothers have you got? Just one.",
+    "option a": "How much",
+    "option b": "How old",
+    "option c": "How are",
+    "option d": "How many",
+    "answer": "d"
+  },
+  {
+    "Question number": "7",
+    "Question": "Is there any food left? ____.",
+    "option a": "No,there isn't",
+    "option b": "Yes, there is any",
+    "option c": "Yes, they is",
+    "option d": "No, there aren't",
+    "answer": "a"
+  },
+  {
+    "Question number": "8",
+    "Question": "My favorite painters are Manet and Renoir but John doesn't like ____ at all.",
+    "option a": "they",
+    "option b": "them",
+    "option c": "it",
+    "option d": "some",
+    "answer": "b"
+  },
+  {
+    "Question number": "9",
+    "Question": "There aren't ____ people here today.",
+    "option a": "many",
+    "option b": "a lot",
+    "option c": "much",
+    "option d": "the many",
+    "answer": "a"
+  },
+  {
+    "Question number": "10",
+    "Question": "We haven't got ____.",
+    "option a": "some children",
+    "option b": "any children",
+    "option c": "a children",
+    "option d": "one children",
+    "answer": "b"
+  },
+  {
+    "Question number": "11",
+    "Question": "Do you speak English? No, I ____.",
+    "option a": "don't speak",
+    "option b": "not",
+    "option c": "don't",
+    "option d": "speak not",
+    "answer":   "c"
+  },
+  {
+    "Question number": "12",
+    "Question": "What does he do? ____.",
+    "option a": "He's teacher",
+    "option b": "He's teaching",
+    "option c": "He's a teacher",
+    "option d": "Yes, he does",
+    "answer":   "c"
+  },
+  {
+    "Question number": "13",
+    "Question": "He ____ in an office every morning from eight to twelve.",
+    "option a": "working",
+    "option b": "works",
+    "option c": "work",
+    "option d": "am working",
+    "answer": "b"
+  },
+  {
+    "Question number": "14",
+    "Question": "I go ____ school in Vienna.",
+    "option a": "at",
+    "option b": "in",
+    "option c": "to",
+    "option d": "on",
+    "answer": "c"
+  },
+  {
+    "Question number": "15",
+    "Question": "We have lunch ____ one o'clock",
+    "option a": "at",
+    "option b": "to",
+    "option c": "in",
+    "option d": "on",
+    "answer": "a"
+  },
+  {
+    "Question number": "16",
+    "Question": " Do you like ____? Yes,I do.",
+    "option a": "to shop",
+    "option b": "shop",
+    "option c": "shopping",
+    "option d": "to shopping",
+    "answer":   "c"
+  }
+]

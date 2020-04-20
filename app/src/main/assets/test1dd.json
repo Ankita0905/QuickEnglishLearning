@@ -1,0 +1,272 @@
+[
+  {
+    "Question number": "1",
+    "Question": "She works ____ Saturday.",
+    "option a": "at",
+    "option b": "to",
+    "option c": "in",
+    "option d": "on",
+    "answer": "d"
+  },
+  {
+    "Question number": "2",
+    "Question": "I stay at home ____ the morning.",
+    "option a": "at",
+    "option b": "to",
+    "option c": "in",
+    "option d": "on",
+    "answer": "c"
+  },
+  {
+    "Question number": "3",
+    "Question": "How do you get to work? ____.",
+    "option a": "By car",
+    "option b": "In car",
+    "option c": "By the car",
+    "option d": "On car",
+    "answer": "a"
+  },
+  {
+    "Question number": "4",
+    "Question": "Do you like classical music? ____.",
+    "option a": "Yes, I likes",
+    "option b": " Yes, I like",
+    "option c": "Yes, I does",
+    "option d": " Yes, I do",
+    "answer": "a"
+  },
+  {
+    "Question number": "5",
+    "Question": "Where is Mary? She ____ over there.",
+    "option a": "is stand",
+    "option b": "is standing",
+    "option c": "stand",
+    "option d": "standing",
+    "answer": "b"
+  },
+  {
+    "Question number": "6",
+    "Question": "I am hungry. ____ something to eat, please",
+    "option a": "I like",
+    "option b": "I'd want",
+    "option c": "I'd like",
+    "option d": "I'm like",
+    "answer":   "c"
+  },
+  {
+    "Question number": "7",
+    "Question": "He ____ born in 1963 in America.",
+    "option a": "had",
+    "option b": "is",
+    "option c": "was",
+    "option d": "did",
+    "answer": "c"
+  },
+  {
+    "Question number": "8",
+    "Question": "Switzerland is ____ than Britain.",
+    "option a": "as small",
+    "option b": "smallest",
+    "option c": "more small",
+    "option d": "smaller",
+    "answer": "d"
+  },
+  {
+    "Question number": "9",
+    "Question": "Motor racing is the ____ sport in the world.",
+    "option a": "most expensive",
+    "option b": "more expensive",
+    "option c": "expensive",
+    "option d": "as expensive",
+    "answer": "a"
+  },
+  {
+    "Question number": "10",
+    "Question": "He passed his English exam very ____.",
+    "option a": "easy",
+    "option b": "easier",
+    "option c": "good",
+    "option d": "easily",
+    "answer": "d"
+  },
+  {
+    "Question number": "11",
+    "Question": "When ____ you go to the USA? Last year.",
+    "option a": "did",
+    "option b": "was",
+    "option c": "went",
+    "option d": "have",
+    "answer": "a"
+  },
+  {
+    "Question number": "12",
+    "Question": "Did she stay with friends? ____.",
+    "option a": "No",
+    "option b": " she didn't",
+    "option c": "No",
+    "option d": " she didn't stay",
+    "answer": "c"
+  },
+  {
+    "Question number": "13",
+    "Question": "She has never ____ to New York.",
+    "option a": "gone",
+    "option b": "was",
+    "option c": "been",
+    "option d": "went",
+    "answer": "c"
+  },
+  {
+    "Question number": "14",
+    "Question": "I haven't got any money. Never mind. ____ some from the bank.",
+    "option a": "I'll get",
+    "option b": "I'm getting",
+    "option c": "I get",
+    "option d": "I'd get",
+    "answer": "a"
+  },
+  {
+    "Question number": "15",
+    "Question": "____ you ever visited London?",
+    "option a": "Did",
+    "option b": "Do",
+    "option c": "Were",
+    "option d": "Have",
+    "answer": "d"
+  },
+  {
+    "Question number": "16",
+    "Question": "____ your car? It's in the garage.",
+    "option a": "Which is",
+    "option b": "Who's",
+    "option c": "When's",
+    "option d": "Where's",
+    "answer": "d"
+  },
+  {
+    "Question number": "17",
+    "Question": "____ bag is this? It's mine.",
+    "option a": "Whose",
+    "option b": "What's",
+    "option c": "Who's",
+    "option d": "Who",
+    "answer": "a"
+  },
+  {
+    "Question number": "18",
+    "Question": "____ only three chairs in my room.",
+    "option a": "They are",
+    "option b": "There are",
+    "option c": "There is",
+    "option d": "It is",
+    "answer": "b"
+  },
+  {
+    "Question number": "19",
+    "Question": "She ____ a house in the town center.",
+    "option a": "got",
+    "option b": "have got",
+    "option c": "has got",
+    "option d": "is got",
+    "answer": "c"
+  },
+  {
+    "Question number": "20",
+    "Question": "____ brothers have you got? Just one.",
+    "option a": "How much",
+    "option b": "How old",
+    "option c": "How are",
+    "option d": "How many",
+    "answer": "d"
+  },
+  {
+    "Question number": "21",
+    "Question": "Is there any food left? ____.",
+    "option a": "No,there isn't",
+    "option b": "Yes, there is any",
+    "option c": "Yes, they is",
+    "option d": "No, there aren't",
+    "answer": "a"
+  },
+  {
+    "Question number": "22",
+    "Question": "My favorite painters are Manet and Renoir but John doesn't like ____ at all.",
+    "option a": "they",
+    "option b": "them",
+    "option c": "it",
+    "option d": "some",
+    "answer": "b"
+  },
+  {
+    "Question number": "23",
+    "Question": "There aren't ____ people here today.",
+    "option a": "many",
+    "option b": "a lot",
+    "option c": "much",
+    "option d": "the many",
+    "answer": "a"
+  },
+  {
+    "Question number": "24",
+    "Question": "We haven't got ____.",
+    "option a": "some children",
+    "option b": "any children",
+    "option c": "a children",
+    "option d": "one children",
+    "answer": "b"
+  },
+  {
+    "Question number": "25",
+    "Question": "Do you speak English? No, I ____.",
+    "option a": "don't speak",
+    "option b": "not",
+    "option c": "don't",
+    "option d": "speak not",
+    "answer":   "c"
+  },
+  {
+    "Question number": "26",
+    "Question": "What does he do? ____.",
+    "option a": "He's teacher",
+    "option b": "He's teaching",
+    "option c": "He's a teacher",
+    "option d": "Yes, he does",
+    "answer":   "c"
+  },
+  {
+    "Question number": "27",
+    "Question": "He ____ in an office every morning from eight to twelve.",
+    "option a": "working",
+    "option b": "works",
+    "option c": "work",
+    "option d": "am working",
+    "answer": "b"
+  },
+  {
+    "Question number": "28",
+    "Question": "I go ____ school in Vienna.",
+    "option a": "at",
+    "option b": "in",
+    "option c": "to",
+    "option d": "on",
+    "answer": "c"
+  },
+  {
+    "Question number": "29",
+    "Question": "We have lunch ____ one o'clock",
+    "option a": "at",
+    "option b": "to",
+    "option c": "in",
+    "option d": "on",
+    "answer": "a"
+  },
+  {
+    "Question number": "30",
+    "Question": " Do you like ____? Yes,I do.",
+    "option a": "to shop",
+    "option b": "shop",
+    "option c": "shopping",
+    "option d": "to shopping",
+    "answer":   "c"
+  }
+]

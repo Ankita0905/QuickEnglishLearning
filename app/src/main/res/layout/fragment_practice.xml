@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:padding="@dimen/p16"
+        android:layout_above="@+id/llBtns"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:id="@+id/tvQues"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioGroup
+            android:id="@+id/rgAns"
+            android:orientation="vertical"
+            android:layout_marginTop="@dimen/m16"
+            android:layout_below="@+id/tvQues"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:backgroundTint="@android:color/transparent"
+                android:id="@+id/rbA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <RadioButton
+
+                android:id="@+id/rbB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <RadioButton
+                android:id="@+id/rbC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <RadioButton
+                android:id="@+id/rbD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </RadioGroup>
+
+    </RelativeLayout>
+
+</RelativeLayout>

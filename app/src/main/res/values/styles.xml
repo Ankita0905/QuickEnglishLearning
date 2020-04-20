@@ -1,0 +1,44 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MyEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MyTIL" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MyButton">
+        <item name="android:colorPrimary">@color/white</item>
+        <item name="android:colorPrimaryDark">@color/white</item>
+        <item name="android:colorAccent">@color/white</item>
+
+    </style>
+    <!--
+        <item name="android:background">@drawable/bg_edittext</item>
+        <item name="android:paddingStart">@dimen/p12</item>
+        <item name="android:paddingEnd">@dimen/p12</item>
+        <item name="android:paddingTop">@dimen/p4</item>
+        <item name="android:paddingBottom">@dimen/p4</item>
+    -->
+
+</resources>

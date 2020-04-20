@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <ScrollView
+        android:paddingLeft="@dimen/p16"
+        android:paddingTop="@dimen/p16"
+        android:paddingRight="@dimen/p16"
+        android:paddingBottom="@dimen/p16"
+        android:scrollbars="none"
+        android:overScrollMode="never"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:padding="@dimen/p16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/logo"
+                android:layout_width="120dp"
+                android:layout_height="120dp"/>
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:layout_marginTop="12dp"
+                android:layout_below="@+id/image"
+                android:id="@+id/tilEmail"
+                style="@style/MyTIL">
+
+                <EditText
+                    android:id="@+id/etEmail"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress"
+                    style="@style/MyEditText"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/tilPswd"
+                android:layout_marginTop="@dimen/p16"
+                android:layout_below="@+id/tilEmail"
+                style="@style/MyTIL">
+
+                <EditText
+                    android:id="@+id/etPassword"
+                    android:hint="Password"
+                    android:inputType="textPassword"
+                    style="@style/MyEditText"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/tilRePswd"
+                android:layout_marginTop="@dimen/p16"
+                android:layout_below="@+id/tilPswd"
+                style="@style/MyTIL">
+
+            <EditText
+                android:id="@+id/etCPassword"
+                android:hint="Re-Password"
+                android:inputType="textPassword"
+                style="@style/MyEditText"/>
+
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+
+            <Button
+                android:id="@+id/btnSignUp"
+                android:textColor="@color/white"
+                android:text="Sign Up"
+                android:background="@drawable/bg_button"
+                android:layout_marginTop="@dimen/m16"
+                android:layout_below="@+id/tilRePswd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/tvSignIn"
+                android:layout_marginTop="24dp"
+                style="@style/TextAppearance.AppCompat.Medium"
+                android:text="@string/msg_signin"
+                android:layout_centerHorizontal="true"
+                android:layout_below="@+id/btnSignUp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+
+
+</RelativeLayout>
