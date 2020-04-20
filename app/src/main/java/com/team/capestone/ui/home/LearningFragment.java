@@ -47,6 +47,7 @@ public class LearningFragment extends BaseFragment  implements TextToSpeech.OnIn
 //        }
 //        return instance;
 //    }
+    
 
     public static LearningFragment newInstance() {
         return new LearningFragment();
